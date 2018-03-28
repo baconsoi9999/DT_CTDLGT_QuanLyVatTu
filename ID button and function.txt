@@ -1,0 +1,43 @@
+ID
+delete_quest_yes 5
+delete_quest_no 6
+Lap_HD_Button 301
+Lap_HD_TT_OK 302
+Lap_HD_TT[0] 303
+Lap_HD_TT[1] 304
+Lap_HD_TT[2] 305
+Lap_HD_TT[3] 306
+Lap_HD_TT[4] 307
+Lap_HD_TT[5] 308
+Lap_HD_final_OK 309
+Lap_HD_add_VT 310
+Lap_HD_cancel 311
+CT_HD_new[0] 312
+CT_HD_new[1] 313
+CT_HD_new[2] 314
+CT_HD_new[3] 315
+CT_HD_new_save 316
+CT_HD_new_cancel 317
+CT_HD_Book.prev_ID 318
+CT_HD_Book.next_ID = 319
+Print_HD_by_SHD_button 330
+search_HD_by_SHD_OK 331
+search_HD_by_SHD 332
+return_search_CT_HD_Book.prev_ID 333
+Thong_Ke_Button 340
+TK_Begin.List_content[0] 341
+TK_Begin.List_content[1] 342
+TK_Begin.List_content[2] 343
+TK_End.List_content_ID[0] 344
+TK_End.List_content_ID[1] 345
+TK_End.List_content_ID[2] 346
+TK_search_Button 347
+TK_Book.next_ID = 348
+TK_Book.prev_ID = 349
+Top_E_Begin.List_content_ID[0] = 401
+Top_E_Begin.List_content_ID[1] = 402
+Top_E_Begin.List_content_ID[2] = 403
+Top_E_End.List_content_ID[0] =  404
+Top_E_End.List_content_ID[1] =  405
+Top_E_End.List_content_ID[2] =  406
+Top_E_OK 407
